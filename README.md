@@ -34,6 +34,11 @@
 # 2B String
 [Stringperformanacetest OutputLink]->https://github.com/MahimaNayak632/Java-Assignment/blob/master/2B%20String/Stringperformanacetest.png
 
+# 3A String
+[Stringoperations OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3A%20String/Stringoperations.png)
+
+# 3C String
+
 
 
 
