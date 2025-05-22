@@ -34,7 +34,19 @@
 # 3A String
 [Stringoperations OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3A%20String/Stringoperations.png)
 
-# 3B String
+# 3B StringOperations
+[Nulloremptychecker OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/Nulloremptychecker.png)
+
+[Palindromecheck OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/Palindromecheck.png)
+
+[Stringreversar OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/Stringreversar.png)
+
+[Substringcounter OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/Substringcounter.png)
+
+[WhitespaceClean OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/WhitespaceClean.png)
+
+# 3C StringOperations
+
 
 
 
