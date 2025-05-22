@@ -69,6 +69,10 @@
 [CountrySelector1]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/5A%20Swing/CountrySelector1.png)
 
 # 5B Swing
+[RGBTabbedPane]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/5B%20Swing/RGBTabbedPane.png)
+
+# 5C Swing
+
 
 
 
