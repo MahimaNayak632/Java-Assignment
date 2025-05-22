@@ -90,6 +90,7 @@
 [7a OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/7A.%20SessionManagement/7a.png)
 
 # 7B CookieManagement
+[7b OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/7B.CookieManagement/7b.png)
 
 
 
