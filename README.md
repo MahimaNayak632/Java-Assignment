@@ -78,6 +78,18 @@
 [CMYTabbedPane]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/5D%20Swing/CMYTabbedPane.png)
 
 # 6A ServletProgram
+[FactorialCalculatorDemo]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/6A.ServletProgram/FactorialCalculatorDemo.png)
+
+# 6B ServletProgram
+
+
+# 6C ServletProgram
+
+
+# 7A SessionManagement
+
+
+# 7B CookieManagement
 
 
 
