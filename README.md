@@ -1,7 +1,6 @@
 # Java Output
 
 # 1A Listoperations
-
 [Listoperations outputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1A%20ListOperations/ListOpertions.png)
 
 # 1B ArrayList
@@ -16,7 +15,6 @@
 [Deletenthelement Output]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1B%20Arraylist/Deletenthelement.png)
 
 # 1C Linkedlist
-
 [Insertatend OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1C.LinkedList/Insertatend.png)
 
 [Iteratefromsecond OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1C.LinkedList/Iteratefromsecond.png)
@@ -28,7 +26,6 @@
 [Swapelement OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1C.LinkedList/Swapelement.png)
 
 # 2A String
-
 [Stringoperationsdemo1 OutputLink]->https://github.com/MahimaNayak632/Java-Assignment/blob/master/2A%20String/Stringoperationsdemo1.png
 
 # 2B String
@@ -37,7 +34,8 @@
 # 3A String
 [Stringoperations OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3A%20String/Stringoperations.png)
 
-# 3C String
+# 3B String
+
 
 
 
