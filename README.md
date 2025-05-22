@@ -81,9 +81,10 @@
 [FactorialCalculatorDemo]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/6A.ServletProgram/FactorialCalculatorDemo.png)
 
 # 6B ServletProgram
-
+[6B.Servletprogram]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/6B.Servletprogram/Cookie.png)
 
 # 6C ServletProgram
+
 
 
 # 7A SessionManagement
