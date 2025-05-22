@@ -46,6 +46,20 @@
 [WhitespaceClean OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/WhitespaceClean.png)
 
 # 3C StringOperations
+[NumericStringValidator Ouputlink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/NumericStringValidator.png)
+
+[RandomStringGenerator Outputlink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/RandomStringGenerator.png)
+
+[StringTruncator Ouputlink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/StringTruncator.png)
+
+[WordCapitalizer OuputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/WordCapitalizer.png)
+
+[WordCounter OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/WordCounter.png)
+
+# 4A Swing
+
+
+
 
 
 
