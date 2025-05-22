@@ -87,8 +87,7 @@
 [6C.ServletProgram]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/6C.ServletProgram/Prime1.png)
 
 # 7A SessionManagement
-
-
+[7a OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/7A.%20SessionManagement/7a.png)
 
 # 7B CookieManagement
 
