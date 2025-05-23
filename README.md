@@ -114,7 +114,7 @@
 [9c o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/9C.AppendEmpSalaryReport/9c.png)
 
 # 9D
-[9d o/plink]->
+[9d o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/9D.DeleteEmpS/9d.png)
 
 
 
