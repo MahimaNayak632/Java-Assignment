@@ -5,7 +5,7 @@
     <title>Delete Coffee Product</title>
 </head>
 <body>
-    <h2>Delete Coffee Product by ID</h2>
+    <h2>Delete Coffee Product </h2>
     <form method="post">
         <label>Enter Coffee ID to Delete:</label>
         <input type="number" name="id" required>
