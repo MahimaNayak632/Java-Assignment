@@ -1,96 +1,122 @@
 # Java Output
 
 # 1A Listoperations
-[Listoperations]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1A%20ListOperations/ListOpertions.png)
+[Listoperations  o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1A%20ListOperations/ListOpertions.png)
 
 # 1B ArrayList
-[ColorRemoval]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1B%20Arraylist/ColorRemoval.png)
+[ColorRemoval  o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1B%20Arraylist/ColorRemoval.png)
 
-[ColorSearch]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1B%20Arraylist/ColorSearch.png)
+[ColorSearch  o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1B%20Arraylist/ColorSearch.png)
 
-[ColorSorter]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1B%20Arraylist/ColorSorter.png)
+[ColorSorter  o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1B%20Arraylist/ColorSorter.png)
 
-[Colorsublist]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1B%20Arraylist/Colorsublist.png)
+[Colorsublist  o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1B%20Arraylist/Colorsublist.png)
 
-[Deletenthelement]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1B%20Arraylist/Deletenthelement.png)
+[Deletenthelement  o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1B%20Arraylist/Deletenthelement.png)
 
 # 1C Linkedlist
-[Insertatend]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1C.LinkedList/Insertatend.png)
+[Insertatend  o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1C.LinkedList/Insertatend.png)
 
-[Iteratefromsecond]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1C.LinkedList/Iteratefromsecond.png)
+[Iteratefromsecond  o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1C.LinkedList/Iteratefromsecond.png)
 
-[Reveseiterate]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1C.LinkedList/Reveseiterate.java)
+[Reveseiterate  o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1C.LinkedList/Reveseiterate.java)
 
-[Showpositions]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1C.LinkedList/Showpositions.png)
+[Showpositions  o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1C.LinkedList/Showpositions.png)
 
-[Swapelement]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1C.LinkedList/Swapelement.png)
+[Swapelement  o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/1C.LinkedList/Swapelement.png)
 
 # 2A String
-[Stringoperationsdemo1]->https://github.com/MahimaNayak632/Java-Assignment/blob/master/2A%20String/Stringoperationsdemo1.png
+[Stringoperationsdemo1  o/plink]->https://github.com/MahimaNayak632/Java-Assignment/blob/master/2A%20String/Stringoperationsdemo1.png
 
 # 2B String
-[Stringperformanacetest]->https://github.com/MahimaNayak632/Java-Assignment/blob/master/2B%20String/Stringperformanacetest.png
+[Stringperformanacetest  o/plink]->https://github.com/MahimaNayak632/Java-Assignment/blob/master/2B%20String/Stringperformanacetest.png
 
 # 3A String
-[Stringoperations]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3A%20String/Stringoperations.png)
+[Stringoperations  o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3A%20String/Stringoperations.png)
 
 # 3B StringOperations
-[Nulloremptychecker]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/Nulloremptychecker.png)
+[Nulloremptychecker o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/Nulloremptychecker.png)
 
-[Palindromecheck]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/Palindromecheck.png)
+[Palindromecheck o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/Palindromecheck.png)
 
-[Stringreversar]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/Stringreversar.png)
+[Stringreversar o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/Stringreversar.png)
 
-[Substringcounter]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/Substringcounter.png)
+[Substringcounter o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/Substringcounter.png)
 
-[WhitespaceClean]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/WhitespaceClean.png)
+[WhitespaceClean o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3b%20StringOperations/WhitespaceClean.png)
 
 # 3C StringOperations
-[NumericStringValidator]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/NumericStringValidator.png)
+[NumericStringValidator o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/NumericStringValidator.png)
 
-[RandomStringGenerator]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/RandomStringGenerator.png)
+[RandomStringGenerator o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/RandomStringGenerator.png)
 
-[StringTruncator]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/StringTruncator.png)
+[StringTruncator o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/StringTruncator.png)
 
-[WordCapitalizer]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/WordCapitalizer.png)
+[WordCapitalizer o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/WordCapitalizer.png)
 
-[WordCounter]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/WordCounter.png)
+[WordCounter o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/3C%20Stringoperation/WordCounter.png)
 
 # 4A Swing
-[HelloSwing]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/4A%20Swing/HelloSwing.png)
+[HelloSwing o/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/4A%20Swing/HelloSwing.png)
 
 # 4B Swing
-[CountryButtonApp]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/4B%20Swing/CountryButtonApp.png)
+[CountryButtonApp O/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/4B%20Swing/CountryButtonApp.png)
 
 # 4C Swing
-[ImageButtonApp]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/4C%20Swing/ImageButtonApp.png)
+[ImageButtonApp O/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/4C%20Swing/ImageButtonApp.png)
 
 # 5A Swing
-[CountrySelector1]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/5A%20Swing/CountrySelector1.png)
+[CountrySelector1 O/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/5A%20Swing/CountrySelector1.png)
 
 # 5B Swing
-[RGBTabbedPane]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/5B%20Swing/RGBTabbedPane.png)
+[RGBTabbedPane O/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/5B%20Swing/RGBTabbedPane.png)
 
 # 5C Swing
-[CapitalFinder]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/5C%20Swing/CapitalFinder.png)
+[CapitalFinder O/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/5C%20Swing/CapitalFinder.png)
 
 # 5D Swing
-[CMYTabbedPane]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/5D%20Swing/CMYTabbedPane.png)
+[CMYTabbedPane O/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/5D%20Swing/CMYTabbedPane.png)
 
 # 6A ServletProgram
-[FactorialCalculatorDemo]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/6A.ServletProgram/FactorialCalculatorDemo.png)
+[FactorialCalculatorDemo O/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/6A.ServletProgram/FactorialCalculatorDemo.png)
 
 # 6B ServletProgram
-[6B.Servletprogram]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/6B.Servletprogram/Cookie.png)
+[6B.Servletprogram O/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/6B.Servletprogram/Cookie.png)
 
 # 6C ServletProgram
-[6C.ServletProgram]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/6C.ServletProgram/Prime1.png)
+[6C.ServletProgram O/p link]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/6C.ServletProgram/Prime1.png)
 
 # 7A SessionManagement
-[7a OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/7A.%20SessionManagement/7a.png)
+[7a  O/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/7A.%20SessionManagement/7a.png)
 
 # 7B CookieManagement
-[7b OutputLink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/7B.CookieManagement/7b.png)
+[7b  O/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/7B.CookieManagement/7b.png)
+
+# 8A CoffeeDataEntry
+[8a  O/plink ]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/8A.CoffeeDataEntry/8a.jpg)
+
+# 8B CoffeeUpdate
+[8b O/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/8B.CoffeeUpdate/8b.png)
+
+# 8C EmpSalaryReport
+[8c2 O/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/8C.EmpSalaryReport/8c2.png)
+
+# 8D UpdateEmpJSP
+[8d O/plink]->(https://github.com/MahimaNayak632/Java-Assignment/blob/master/8D.UpdateEmpJSP/8d.jpg)
+
+# 9A DeleteCoffee
+[ 9a O/plink]
+
+# 9B QueryCoffeeByD
+[ O/plink]
+
+# 9C AppendEmpSalaryReport
+[ O/plink]
+
+
+# 9D
+[ O/plink]
+
 
 
 
